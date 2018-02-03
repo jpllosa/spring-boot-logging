@@ -1,0 +1,6 @@
+#debug: true
+#trace: true
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
