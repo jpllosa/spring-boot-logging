@@ -1,6 +1,38 @@
 #debug: true
 #trace: true
-spring:
-  output:
-    ansi:
-      enabled: ALWAYS
+
+#spring:
+#  output:
+#    ansi:
+#      enabled: ALWAYS
+
+#logging:
+#  file: main.log
+#  pattern:
+#    file: '%-30(%d{HH:mm:ss.SSS} [%thread]) %-5level %logger{32} - %msg%n'
+#  path: log
+
+#logging:
+#  level:
+#    root: OFF
+
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        boot: OFF
+
+#spring:
+#  main:
+#    banner-mode: 'OFF'
+
+#logging:
+#  level:
+#    root: WARN
+
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        boot: DEBUG
+
